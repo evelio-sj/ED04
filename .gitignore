@@ -1,6 +1,7 @@
 nbproject/
 nbbuild/
-dist/
+build/
+build*
 nbdist/
 .nb-gradle/
 .DS_Store
