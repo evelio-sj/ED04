@@ -1,9 +1,7 @@
 nbproject/
-build/
 nbbuild/
 dist/
 nbdist/
 .nb-gradle/
 .DS_Store
-build*
 manifest*
